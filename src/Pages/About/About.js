@@ -9,7 +9,7 @@ const About = () => {
     <div id="about">
       <div className="about_section">
         <div className="text" data-aos="fade-up">
-          About Us
+          About Us todayyy
         </div>
         <div className="about_container">
           <img src={banner} alt="banner" data-aos="fade-up" />
